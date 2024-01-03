@@ -9,7 +9,7 @@ keras==2.15.0
 tensorflow-metal==1.1.0
 tensorflow==2.15.0
 streamlit==1.29.0
-
+scikit-learn==1.3.2
 
 # absl-py==2.0.0
 # alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
@@ -303,7 +303,7 @@ streamlit==1.29.0
 # ruamel.yaml @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_aeh5mqcw49/croot/ruamel.yaml_1666304555976/work
 # ruamel.yaml.clib @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_f64xdg2rww/croot/ruamel.yaml.clib_1666302244208/work
 # scikit-image @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_2dnc0r7yu5/croot/scikit-image_1669241742476/work
-# scikit-learn==1.3.2
+
 # scipy==1.11.4
 # Scrapy @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T/abs_31eklp9fz0/croot/scrapy_1677738194352/work
 # seaborn==0.13.1
